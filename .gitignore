@@ -1,0 +1,23 @@
+
+# Secret credentials
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+venv/
+newvenv/
+__pycache__/
+*.pyc
+
+# Git and editor files
+.vscode/
+
+# Large or generated files
+faiss_index/
+graph_cache/
+requirements-full.txt
+
+# Temporary files
+*.log
+*.tmp

@@ -1,0 +1,10 @@
+
+.env
+.env.*
+venv/
+.git/
+__pycache__/
+*.pyc
+requirements-full.txt
+faiss_index/
+graph_cache/
